@@ -77,7 +77,7 @@ public class BhaskarPageLoginAndSignUp {
 		} finally {
 			// Ensure driver.quit() is always called, even if an exception occurs
 			if (driver != null) {
-				driver.quit(); // Close browser and end WebDriver session
+				driver.close(); // Close browser and end WebDriver session
 			}
 		}
 
