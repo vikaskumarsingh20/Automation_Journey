@@ -44,9 +44,9 @@ Want to join me in this journey? Feel free to fork this repository, submit issue
 ---
 
 ## 🌐 **Stay Connected**
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/)  
-- 🐦 Follow me on [Twitter](https://twitter.com/)  
-- 📧 Email me at: `your_email@example.com`
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/vikaskumarsingh24)  
+- 🐦 Follow me on [Twitter](https://twitter.com/vikas_rajput)  
+- 📧 Email me at: `vikaskumarsingh0931@gmail.com`
 
 ---
 
