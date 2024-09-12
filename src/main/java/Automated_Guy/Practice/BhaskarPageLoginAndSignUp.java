@@ -36,8 +36,8 @@ public class BhaskarPageLoginAndSignUp {
 			Select nationality = new Select(driver.findElement(By.id("nationality")));
 			nationality.selectByIndex(1);
 
-			driver.findElement(By.id("emailId")).sendKeys("vikaskumarsingh12311@gmail.com");
-			driver.findElement(By.id("mobileNumber")).sendKeys("9821190201");
+			driver.findElement(By.id("emailId")).sendKeys("vikaskumarsingh123111@gmail.com");
+			driver.findElement(By.id("mobileNumber")).sendKeys("9822190201");
 			driver.findElement(By.id("password")).sendKeys("Test@231");
 			driver.findElement(By.id("confirmPassword")).sendKeys("Test@231");
 
