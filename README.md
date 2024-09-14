@@ -50,7 +50,7 @@ Want to join me in this journey? Feel free to fork this repository, submit issue
 
 ---
 
-## 🚧 **Work in Progress** 🚧  
+## 🚧 **Work in Progress** 🚧   
 This project is a continuous work in progress, and I’ll be updating it regularly with new content, code, and learnings. Stay tuned for more updates! 😎
 
 ---
